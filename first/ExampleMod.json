@@ -1,0 +1,11 @@
+{
+  "id": "ExampleMod",
+  "name": "Beach Paradise Mod",
+  "author": "YourName",
+  "description": "Beach-themed expansion: 25 cards (10 Ironclad, 8 Silent, 7 Defect) and 3 relics.",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": true,
+  "dependencies": []
+}
